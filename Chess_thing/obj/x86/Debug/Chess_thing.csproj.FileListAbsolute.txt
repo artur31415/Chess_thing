@@ -1,0 +1,11 @@
+C:\Users\ARTUR\Documents\SOFT\C#\Chess_thing\Chess_thing\bin\Debug\Chess_thing.exe
+C:\Users\ARTUR\Documents\SOFT\C#\Chess_thing\Chess_thing\bin\Debug\Chess_thing.pdb
+C:\Users\ARTUR\Documents\SOFT\C#\Chess_thing\Chess_thing\obj\x86\Debug\Chess_thing.Form1.resources
+C:\Users\ARTUR\Documents\SOFT\C#\Chess_thing\Chess_thing\obj\x86\Debug\Chess_thing.Properties.Resources.resources
+C:\Users\ARTUR\Documents\SOFT\C#\Chess_thing\Chess_thing\obj\x86\Debug\Chess_thing.csproj.GenerateResource.Cache
+C:\Users\ARTUR\Documents\SOFT\C#\Chess_thing\Chess_thing\obj\x86\Debug\Chess_thing.exe
+C:\Users\ARTUR\Documents\SOFT\C#\Chess_thing\Chess_thing\obj\x86\Debug\Chess_thing.pdb
+C:\Users\ARTUR\Documents\SOFT\C#\Chess_thing\Chess_thing\obj\x86\Debug\Chess_thing.csprojResolveAssemblyReference.cache
+C:\Users\ARTUR\Documents\SOFT\C#\Chess_thing\Chess_thing\obj\x86\Debug\Chess_thing.MainMenu.resources
+D:\Sovngarde\SOFT\C#\Chess_thing\Chess_thing\obj\x86\Debug\Chess_thing.exe
+D:\Sovngarde\SOFT\C#\Chess_thing\Chess_thing\obj\x86\Debug\Chess_thing.pdb
